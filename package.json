@@ -1,0 +1,14 @@
+{
+  "name": "rust_socketio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server/index.mjs",
+  "scripts": {
+    "start": "node server/index.mjs"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "socket.io": "^4.8.0"
+  }
+}
